@@ -1,0 +1,8 @@
+prefix=/home/nqabbas/catkin_ws/install
+
+Name: pid_assignment
+Description: Description of pid_assignment
+Version: 0.1.0
+Cflags: -I/home/nqabbas/catkin_ws/install/include
+Libs: -L/home/nqabbas/catkin_ws/install/lib 
+Requires: rospy dynamic_reconfigure

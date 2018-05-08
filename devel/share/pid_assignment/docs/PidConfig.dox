@@ -1,0 +1,9 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~p" : \b [double] Proportional constant min: 0.0, default: 5.0, max: 20.0
+- \b "~i" : \b [double] Integral constant min: -10.0, default: 0.0, max: 10.0
+- \b "~d" : \b [double] Derivative constant min: -10.0, default: 0.0, max: 10.0
+- \b "~c" : \b [double] Non-linear constant min: -10.0, default: 0.0, max: 10.0
+

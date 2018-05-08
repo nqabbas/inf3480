@@ -1,0 +1,8 @@
+prefix=/home/nqabbas/catkin_ws/install
+
+Name: crustcrawler_control
+Description: Description of crustcrawler_control
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/nqabbas/catkin_ws/install/lib 
+Requires: 

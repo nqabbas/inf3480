@@ -1,0 +1,8 @@
+prefix=/home/nqabbas/catkin_ws/devel
+
+Name: crustcrawler_msgs
+Description: Description of crustcrawler_msgs
+Version: 0.0.1
+Cflags: -I/home/nqabbas/catkin_ws/devel/include
+Libs: -L/home/nqabbas/catkin_ws/devel/lib 
+Requires: message_runtime
